@@ -12,7 +12,7 @@ I'm currently studying **Systems Analysis and Development**, focusing on **back-
 
 - 🇧🇷 From Manaus, Brazil
 - 📫 Contact: [contact.kzugz@gmail.com](mailto:contact.kzugz@gmail.com)
-- 🚀 Currently learning: **Python**
+- 🚀 Currently learning: **React**
 
 ---
 
